@@ -1,0 +1,2 @@
+mpicc -o send_nothing send_nothing.c
+qsub send_nothing_1node.sh

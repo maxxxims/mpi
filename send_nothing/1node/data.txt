@@ -1,0 +1,2 @@
+latency latency_norm
+3.240000 0.000002

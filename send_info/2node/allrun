@@ -1,0 +1,2 @@
+mpicc -o send_info send_info.c
+qsub send_info_2node.sh
